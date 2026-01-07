@@ -1,0 +1,7 @@
+channel	name
+3	Water
+0	IAsampler
+1	OIL
+2	pure
+4	Valve1
+5	Valve2
