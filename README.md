@@ -1,7 +1,7 @@
 <h1 align="center">PUREdrop</h1>
 <p align="center"><i>Code for the paper <b>"Automated Synthetic Cell-based Screening for Designed Proteins with Emergent Functions"</b> by Kareem Al Nahas, Béla P. Frohn, Aleksandra Šakanović, Frank Siedler and Petra Schwille (under review)
 <p align="center">
-    <img width="70%" src="./PUREdrop.png" alt="PUREdrop">
+    <img width="70%" src="PUREdrop.png" alt="PUREdrop">
 </p>
 
 ## Abstract
