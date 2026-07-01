@@ -1,0 +1,32 @@
+{
+  "creators": [
+    {
+      "name": "Al Nahas, Kareem"
+    },
+    {
+      "name": "Frohn, Béla P."
+    },
+    {
+      "name": "Šakanović, Aleksandra"
+    },
+    {
+      "name": "Siedler, Frank"
+    },
+    {
+      "name": "Schwille, Petra"
+    }
+  ],
+  "title": "Automated Synthetic Cell-based Screening for Designed Proteins with Emergent Functions",
+  "version": "1.0.0",
+  "access_right": "open",
+  "keywords": [
+    "synthetic biology",
+    "microfluidics",
+    "protein design",
+    "synthetic cells",
+    "PUREdrop"
+  ],
+  "license": "mit",
+  "upload_type": "software",
+  "language": "eng"
+}

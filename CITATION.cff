@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Automated Synthetic Cell-based Screening for Designed Proteins with Emergent Functions"
+type: software
+authors:
+  - given-names: "Kareem"
+    family-names: "Al Nahas"
+  - given-names: "Béla P."
+    family-names: "Frohn"
+  - given-names: "Aleksandra"
+    family-names: "Šakanović"
+  - given-names: "Frank"
+    family-names: "Siedler"
+  - given-names: "Petra"
+    family-names: "Schwille"
+repository-code: "https://github.com/KANahas/PUREdrop"
+url: "https://github.com/KANahas/PUREdrop"
+version: "1.0.0"
+date-released: "2026-07-01"
+license: "MIT"
+abstract: "Code for the paper Automated Synthetic Cell-based Screening for Designed Proteins with Emergent Functions."
+keywords:
+  - synthetic biology
+  - microfluidics
+  - protein design
+  - synthetic cells
+  - PUREdrop
